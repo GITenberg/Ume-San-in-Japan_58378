@@ -1,5 +1,8 @@
 _repo: Ume-San-in-Japan_58378
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: McDonald, Etta Blaisdell
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '33522'
     url: http://www.gutenberg.org/2009/agents/33522
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58378#Ume-San-in-Japan
 gutenberg_issued: '2018-11-29'
 gutenberg_type: Text
 identifiers:
